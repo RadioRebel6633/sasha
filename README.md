@@ -1,4 +1,7 @@
 # sasha
 jarvis-type system
 
-to install add a folder named "sounds" inside sasha and put the mp3 file in there.
+unzip sounds and delete the mp3 and wav file.
+
+
+have fun!
