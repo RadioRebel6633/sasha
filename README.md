@@ -1,7 +1,7 @@
 # sasha
 jarvis-type system
 
-unzip sounds and delete the mp3 and wav file.
+you may do what you wish with my code as long as credit is given where it is due (use your head for that one!!!) 
 
 
 have fun!
